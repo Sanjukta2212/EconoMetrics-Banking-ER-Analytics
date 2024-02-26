@@ -28,7 +28,7 @@ The SQL queries developed facilitate a deep dive into:
 - **Database-Specific Functions**: Adaptation to various SQL functions based on database platforms like PostgreSQL.
 - **Syntax Compatibility**: Attention to query construction and syntax for seamless execution.
 - **Project Execution**: A structured workflow was key to addressing the comprehensive business proposals.
-- **Joins VS Subqueries**: Learned how SQL joins outpace subqueries for efficiency during a project. Detailed insights shared in a [Medium Post](https://medium.com/@sanjuktabaruah5/sql-joins-vs-subqueries-a-comprehensive-comparison-039e6f4686a5)
+- **Joins VS Subqueries**: Learned how SQL joins outpace subqueries for efficiency during a project. Detailed insights shared in the [Medium Post](https://medium.com/@sanjuktabaruah5/sql-joins-vs-subqueries-a-comprehensive-comparison-039e6f4686a5)
 
 ## Contribution
 
